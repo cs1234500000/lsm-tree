@@ -1,2 +1,2 @@
 # lsm-tree
-An example of basic lsm-tree implementation in Rust
+A simple implementation of lsm-tree
